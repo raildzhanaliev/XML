@@ -1,1 +1,6 @@
-
+<?xml version="1.0"?>
+<summary>the program crushes after click on red button</summary>
+<severety>s1 blocker</severety>
+<steps to reproduce> 1) open program 2) press red button</steps to reproduce>
+<result>program crushes</result>
+<expected result>open new window</expected result>
